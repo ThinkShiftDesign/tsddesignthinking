@@ -60,7 +60,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "showArrow": false
+            "showArrow": true
           },
           "title": "Design Thinking.<br>",
           "text": "",
