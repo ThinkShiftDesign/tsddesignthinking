@@ -58,9 +58,9 @@
             "overlayColor": "#ffffff",
             "contentAlign": "center",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": false
           },
           "title": "Design Thinking.<br>",
           "text": "",
