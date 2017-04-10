@@ -115,7 +115,7 @@
           },
           "title": "Live and Breathe Innovation",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>A modern agency that crowdsources talented, passionate individuals who are dedicated and committed to working with you every step of the way.</p>",
+          "text": "<p>We are a modern agency that crowdsources talented and passionate individuals. Together, we are dedicated and committed to working with you every step of the way.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">More about us</a> "
         },
         {
@@ -218,7 +218,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<a href=\"leadership.html\" target=\"_blank\" class=\"text-primary\">Leadership </a><br><a href=\"leadership.html\" target=\"_blank\" class=\"text-primary\">and Change</a>",
+          "title2": "<a href=\"leadership.html\" target=\"_blank\" class=\"text-primary\">Leadership </a><a href=\"leadership.html\" target=\"_blank\" class=\"text-primary\">and Change</a>",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media3": {
@@ -412,10 +412,10 @@
               "src": "@PROJECT_PATH@/assets/images/tsd-logo-01-265x144-5.jpg",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "www.thinkshiftdesign.com",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "text1": "<strong>T.S.D. Consulting LLP</strong><br>\nSingapore<br>\nUEN:&nbsp;T16LL0350E",
