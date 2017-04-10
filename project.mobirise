@@ -44,7 +44,7 @@
           },
           "_anchor": "header4-0",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1470072242968-5602a4283d62-2000x1344-5.jpg",
             "bgColor": "#fff8e0",
